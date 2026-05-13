@@ -175,7 +175,7 @@ function theBeginning()
 function congrats()
 {
 	//Changes the current state
-	currentState = 0;
+	currentState = 4;
 }
 
 function theEnd()
